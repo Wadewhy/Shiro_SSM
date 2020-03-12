@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Shiro_SSM:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Shiro_SSM</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Shiro_SSM-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Shiro_SSM:war exploded" />
+    </root>
+  </artifact>
+</component>
